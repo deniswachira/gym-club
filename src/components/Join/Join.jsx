@@ -20,7 +20,7 @@ const Join = () => {
             <hr />
             <div>
                 <span className="stroke-text">READY TO </span>
-                <span>LEVEL UP</span>
+                <span>LEVEL UUP</span>
             </div>
             <div>
                 <span>YOUR BODY</span>
